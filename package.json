@@ -19,7 +19,7 @@
       },
       {
         "command": "skeleton.openWithVaporView",
-        "title": "Open file with VaporView"
+        "title": "Test opening file with VaporView"
       }
     ]
   },
